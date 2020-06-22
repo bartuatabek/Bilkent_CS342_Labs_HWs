@@ -1,0 +1,11 @@
+ls
+cp file1.txt file2.txt
+mkdir test
+wc file1.txt
+cat file1.txt
+mv file2.txt test
+rm test/file2.txt
+rmdir test
+ps aux | sort
+./producer 1000
+ls -h -l | wc

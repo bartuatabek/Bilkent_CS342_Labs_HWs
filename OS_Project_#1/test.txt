@@ -1,0 +1,1 @@
+./producer 1000000 | ./consumer 1000000
