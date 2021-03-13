@@ -26,6 +26,6 @@
 - Mutex Locks and Condition Variables in Pthreads API
 - Monitor Implementation
 
-### Project 3: *A Module to Access In-Memory File System Structures*
+### Project 4: *A Module to Access In-Memory File System Structures*
 - Developing Linux Kernel Modules
 - In Memory File and File-System Structures of Linux
